@@ -13,8 +13,8 @@ import (
 
 var (
 	ifaceName  string           = "eth0"          // Имя сетевого интерфейса
-	targetIP   string           = "192.168.0.100" // IP-адрес цели
-	gatewayIP  string           = "192.168.0.1"   // IP-адрес шлюза
+	targetIP   string           = "192.222.0.100" // IP-адрес цели
+	gatewayIP  string           = "192.222.0.1"   // IP-адрес шлюза
 	targetMac  net.HardwareAddr                   // MAC-адрес цели
 	gatewayMac net.HardwareAddr                   // MAC-адрес шлюза
 )
