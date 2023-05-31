@@ -9,7 +9,7 @@ import (
 )
 
 func main() {
-	targetIP := "192.168.0.1/24"
+	targetIP := "yours ip" // 192.123.0.1/24
 
 	ctx, cancel := context.WithTimeout(context.Background(), 1*time.Minute)
 
