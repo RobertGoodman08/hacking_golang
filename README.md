@@ -16,4 +16,4 @@
 ### - [Stegnography](https://github.com/RobertGoodman08/hacking_golang/tree/master/Stegnography) 
 ### - [Trojan - packaging a malware](https://github.com/RobertGoodman08/hacking_golang/tree/master/Trojan%20-%20packaging%20a%20malware) 
 ### - [Uploading Viruses to victim](https://github.com/RobertGoodman08/hacking_golang/tree/master/Keylogger) 
-### - [Keylogger](https://github.com/RobertGoodman08/hacking_golang/tree/master/Uploading%20Viruses%20to%20victim) 
+### - [Malware Downloading Files from Victim](https://github.com/RobertGoodman08/hacking_golang/tree/master/Malware%20Downloading%20Files%20from%20Victim) 
